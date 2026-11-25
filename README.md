@@ -1,7 +1,7 @@
 # mondpreis
 
 <p align="center">
-  <img src="img.jpg" alt="A duckling in a red cap" width="160">
+  <img src="img.png" alt="A duckling in a red cap" width="160">
 </p>
 
 Verify advertised price reductions against observed price history.
