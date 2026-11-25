@@ -1,8 +1,10 @@
 # mondpreis
 
-Verify advertised price reductions against observed price history.
+<p align="center">
+  <img src="img.jpg" alt="A duckling in a red cap" width="160">
+</p>
 
-![A duckling in a red cap](img.jpg)
+Verify advertised price reductions against observed price history.
 
 Status: the check itself runs. Live collection does not. See [Running](#running).
 
